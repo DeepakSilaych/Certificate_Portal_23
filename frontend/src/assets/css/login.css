@@ -1,0 +1,72 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    background-color: #2659ac;
+    color: #f8d447;    
+    font-size: 1.7rem;
+    font-weight: 800;
+
+}
+
+.login header{
+   font-size: 3rem;
+   position: static;
+   text-align: center;
+   padding-top: 50px;
+}
+
+.login-wrapper{
+    padding-top: 100px;
+    width: 80vw;
+}
+
+.login-wrapper .boxes{
+    box-shadow: 0px 0px 10px 0px #000000;       
+}
+
+.loginimg{
+    position: fixed;
+    right: 30vw;
+    top: 50vh;
+}
+
+.login-footer{
+    position: absolute;
+    bottom: 0;
+}
+
+@media only screen and (max-width: 950px) {
+    .loginimg{
+       
+        right: 10vw;
+        top: 45vh;
+    }
+  }
+@media only screen and (max-width: 650px) {
+    .loginimg{
+       
+        right: 10vw;
+        top: 45vh;
+    }
+    .login-wrapper{
+        padding-top: 0px;
+        width: 60vw;
+    }
+  }
+@media only screen and (max-width: 500px) {
+    .login header{
+        font-size: 2.5rem;
+        position: static;
+        text-align: center;
+        padding-top: 50px;
+     }
+    .loginimg{
+        scale: 0.8;
+        right: 6vw;
+        top: 50vh;
+    }
+    .login-wrapper{
+        padding-top: 50px;
+        width: 60vw;
+    }
+  }

@@ -1,0 +1,536 @@
+rollno,name,topic
+190010070,Vinamra Baghel,A Bridge between Numbers and Money
+190100112,Shrey Gupta,Data Structures and Algorithms
+200020081,Mourya Naru,DSA
+200040002,Aakash Jha,Corporate Finance
+200040004,Aashi Ranjan ,Machine Learning 
+200040086,Neha Kumawat,Intro to Stock market and analysis
+200040088,Nidhi Chaudhary,Artificial Intelligence 
+200040135,Vaishnavi Shinde,Big Data 
+200050013,Arpon Basu,Coding Theory
+200070069,Sachin Meena,Artificial Intelligence
+200070081,Srushti Bangde,Data Structures and Algorithms
+200100103,Naveen Gowda J,Computer vision
+200100110,Pathipati Girishma Chowdary ,Data structures and algorithms 
+200100146,Shreejesh,Single cylinder engine design and drawing
+200100164,Vansh Kapoor,Game Theory and Algorithmic Design
+200110004,Adarsh Dilipkumar Nagpure,Machine learning Introduction and mathematic intuition
+200110034,Dipanshu Srivastava,Network Security
+200110037,Siddhi Gaikwad ,Financial Mathematics 
+200110058,Komalika Gokul Shirud,Title of My Project name is Data Science
+204083004,Bhakti Jadhav,Study of some fundamental concepts in mathematics to apply in linguistics.
+210010010,Anoushka Dey,Natural Language Processing
+210010011,Anshul Aggarwal,Financial Mathematics and the Black Scholes Formula
+210010016,Astha Dable,Consumer Theory and Behaviour Analysis
+210010019,Keyur Bagadiya,algorithmic trading
+210010025,Disha Gupta,Solar Astronomy
+210010032,Kanika Gupta,Data structure and algorithms
+210010033,Mahesh K,Data Science
+210010038,Lagnesh Mahapatra,Control theory
+210010047,Parsana Vivek Navinbhai,Network Security
+210010054,Sahil Nitin Kale,Computational Fluid Dynamics
+210010060,Shreyash Lipare,Financial Mathematics
+210010063,Susmit Sarkar,Computational Physics
+210020003,Abhinav Vaishnav,DSA
+210020005,Aditya Kumar,Data Structures and Algorithms
+210020013,Akshat Singh,Algorithmic Trading
+210020014,Akshay Kumar Baruah,Neural Networks and Deep Learning
+210020015,Amit Saini,Corporate Finance
+210020026,Ashwin Panchal,Neural Network & Deep Learning
+210020029,Ayushi Priya ,Data Structures and Algorithms
+210020035,Darshit Gupta ,Stock Market Analysis 
+210020047,Falak Mujeeb,Corporate Finance
+210020048,Bhavina Rajesh Gajghate,Radio Astronomy
+210020050,Gopal Maheshwari,Portfolio Management
+210020052,Harshal Jayesh Mistry,Abstract Algebra
+210020053,Harsh Bhardwaj,Computational Fluid Dynamics
+210020054,Harshit Agarwal,Algorithmic Trading
+210020063,Kaushal Dhadse,Introduction to Data Science
+210020064,Khsuhal Kumawat,Algorithmic Trading
+210020065,Krishna Gaggar,Discrete Structures
+210020067,LAKAVATH SIDHARTHA,Machine learning
+210020068,Lakshay Bhadana,Algo Trading 
+210020072,Maithri Suresh,Discrete Structures
+210020073,Malavath Prashanth Nayak,Corporate Finance
+210020080,Muskan Patel,Data Structures and Algorithms
+210020081,Namita Nayak,Stock Market Analysis
+210020084,Neet Patel,Computer Vision
+210020085,Niranjan Verma,DSA
+210020086,Piyush Anand,Introduction to Computer Vision
+210020091,Pragya Agarwal,Corporate Finance
+210020098,Prekshu Pranav Singh,Algorithmic Project
+210020113,Sahil Sachin Zodge,Data Structures and Algorithms in C++
+210020115,Samyak Bagdiya,Machine learning
+210020120,Saumya Sheth,Data Structures and Algorithms
+210020127,Shivam Gautam,Stock Market Analysis
+210020132,Shruti Lohar,Stock Market Analysis
+210020145,Tushar Kotangale,Algorithmic Trading
+210020146,Umesh Kumar,Data Structures and Algorithms
+210020150,Vedika Dilip Kamble,Data Structure and Algorithm
+210020154,Yash Agarwal,Stock Market Analysis
+210021002,Hari Ramakrishnan Sudhakar,Statistical Physics of Particles
+210040007,Adarsh Raghuwanshi,Machine Learning
+210040018,Anuj Agrawal,Data Structure & Algorithm
+210040024,Aryan Bhosale,Algorithmia
+210040026,Ashutosh Bharti,Computer Vision
+210040029,Ayush Sahu,Corporate finance
+210040033,Bhanu Jangid,Stock Market analysis
+210040035,Bibhuti Kumar Mishra,Unveiling DSA in simple Language
+210040054,Harendra Pratap Singh Baghel,Portfolio Management
+210040058,Harshit Yadav,Stock Market Analysis
+210040060,Harshraj Chaudhari,Game Theory
+210040063,Harsh Vardhan Mahawar,Data structures and algorithms
+210040064,Hemant Bamb,Deep Learning And Neural Networks
+210040083,MADEKA ABHISHEK,DATA STRUCTURES AND ALGORITHMS
+210040085,Mahek Maheshwari,Stock Market Analysis
+210040091,Mehul Agrawal,Neural networks and Deep learning
+210040097,Mohak Gupta,Game Theory
+210040108,Nisha meena,Algorithmic Trading
+210040111,Nupur Pandey ,Machine Learning 
+210040116,Amogha Pote ,cancer biology 
+210040119,Raghvendra Singh,Summer Of Science-PSYCHOLOGY
+210040120,Rahul Agarwal,Data Structures and Algorithms
+210040121,Raj Singh Sengar,Stock Market Analysis
+210040131,Sahil Barbade,Algorithmic Trading
+210040131,Sahil Barbade,Algorithmic Trading
+210040142,Mohammad Kadiri,Predictive Maintenance using ML (Artificial Intelligence)
+210040150,Shruti Singh,Data Structures and Algorithms
+210040155,Srishti Kumari,Differential Equation
+210040158,Tanisha kumari,Financial mathematics 
+210040166,Utsav Paliwal,DSA
+210040167,Sahaja Vanguri ,Mechanics of Materials 
+210050025,Atharv Kshirsagar,Stochastic Processes
+210050032,Gargi Bakshi,Cryptography
+210050050,Faiz Hashim,Cryptography
+210050053,Gettiboina Chanikya Prakash,Group Theory
+210050056,Khushi Gondane,Algorithmic Trading
+210050076,Kadivar Lisan Kumar,Cryptography
+210050081,Karanam Lokesh,Basics of Machine Learning 
+210050115,Vipul Patil,Markov Chains
+210050117,P Hemanth Naidu ,Blockchain Technology 
+210050118,PLS Lokesh Reddy,Blockchain Technology
+210050121,Pratham Garg,Algorithmic Trading
+210050122,Pratiksha Deka,"Introduction to Blockchain, Cryptocurrencies and Smart Contracts"
+210050138,Sabyasachi Samantaray,Drug Discovery
+210050147,Shriyank Tatawat,Deep Learning And Neural Networks
+210050154,Suravarapu Harsha Varma,Machine Learning
+210050166,Vir Wankhede,Stock Market Analysis
+210050169,Yash Ruhatiya,Algorithmic Trading
+210051003,Krishna N Agaram,Abstract Algebra
+210070006,Alok Kumar,DSA
+210070008,Ananya Chinmaya,Computer Vision
+210070015,Avaneesh Sai Subramanyam,Computer Architecture
+210070020,Bekate Mahesh Dnyaneshwar,Data Structures and Algorithms
+210070021,Bhakti Matsyapal ,Control Theory 
+210070039,Kalpit Jain,Game Theory
+210070042,Komal Meena,Control Systems
+210070044,Sanket Kothawade,Photonics and Quantum Optics
+210070046,Kudupudi Puja Naga Prasanna,Cryptography
+210070049,Linisha Yellapu,Robotics
+210070056,Nihal H,Machine Learning
+210070060,Pradnya Kumbhare,Data Structure And Algorithm
+210070066,Rajadhyaksha Apoorva Girish,Non Linear Dynamics
+210070074,Sanika Landge,Corporate finance
+210070082,Shravani Kode,Data Structures and Algorithms
+210070085,Siddhant Chourasia,Game Theory
+210070086,Siddharth Kaushik,Game Theory
+210070087,Sriniketan Joshi,Photonics and Quantum Optics 
+210070096,Yash Paritkar,Criminology
+210070097,Yerra Rohith kumar,Cryptography
+210070098,Yogesh Sahu,Algorithmic Trading
+210100011,Aman Sharma,Operating Systems
+210100013,Ananya Meena,Blockchain Technology
+210100024,ARJUN.R,ROBOTICS
+210100030,Aryan Kumar,Game Theory
+210100038,Ayush Shegokar,Robotics
+210100044,Chaitanya Katti,Neural Networks and Deep Learning
+210100059,Ganesh Iyer,Non-Linear Dynamics
+210100061,Hardik Kumar Srivastava,Fundamentals and Applications of Linear Algebra
+210100065,Harshini Sreeram,Corporate Finance
+210100066,Harshit Patil,Data Structures and Algorithms
+210100067,Harsh Kavediya,Natural Language Processing
+210100085,Kushagra Chindak,Data Structures and Algorithms 
+210100086,Kushagra Pankajrai Bothra,Data Structures and Algorithms
+210100095,M Dheeraj Kumar Reddy,Stock Market Analysis
+210100104,Palithya Tejashwini,Stock Market Analysis
+210100117,Pranjal,Cosmology
+210100127,Rohit Kale,Astroinformatics and Data Analysis
+210100135,Saukhya Telge ,Control theory
+210100137,Shiva Sudhan R,Non-linear Dynamics
+210100152,Srishti Sinha,Finite Element Analysis
+210100152,Srishti Sinha,Finite Element Analysis
+210100155,Suryansh Lunkar,Financial Mathematics
+210100156,Tanmay Ganguli,Computer Vision
+210100167,Vedant Kashyap,Data Structure and Algorithms
+210110003,Aaryan Sharma,Computer Vision
+210110007,Abhi Raj,Data Structures and Algorithms
+210110008,Aditya Dungrani,Computer Networks
+210110012,Akash Prasad,Game theory
+210110015,Allen Mathew James,Algorithmic Trading
+210110023,Anmol Kurothe,Corporate Finance
+210110032,Ayush Kale,Financial Mathematics 
+210110045,Gaurishankar Swain,Algorithmic Trading
+210110048,Hriday Jasani,Hydrogen production and it's storage 
+210110059,Karthik Kondu,Cryptography 
+210110065,Dhruv Kothari,Stock Market Ananlysis
+210110070,Kunal Kumar,Computer Network
+210110071,KUNAL PUROHIT,CRYPTOGRAPHY
+210110073,lomisa lakshman kumar,DATASCIENCE
+210110079,Mohit Chandak,Environmental Chemistry and Green Materials
+210110080,M.Vijay Naik,Data Structures and Algorithms
+210110090,Harshita Rathod ,Algorithmic trading 
+210110091,Rishabh Raj Jain,Modern Stock Market Analysis
+210110092,Ritesh Rajaykumar Dahake,Deep Learning and Neural Networks
+210110093,RIYA SINGH,DATA STRUCTURES AND ALGORITHMS
+210110104,Sooraj A P,Topology
+210110107,Tejas Kamat,Algorithmic Trading
+210110110,Tushaar Jhamtani ,Corporate Finace: Banking and Debt Analysis 
+210110111,Tushir  Doshi,Financial Mathematics 
+210110116,Vedant Yadav,Discrete Mathematics
+210110120,Vijay Awatade,Computational Biology
+210110124,Yashwani Jharwal,Robotics
+210260004,Aditya Prakash,Financial Mathematics
+210260028,K Sahiti,Machine Learning Applications in biology
+210260032,Aditya Mehta,Computational Physics
+210260037,Nilabha Saha,Abstract Algebra
+210260038,Pal Aggarwal,Cognitive Science
+210260041,Rajat Dhumale,Data Structures and Algorithm
+210260044,Sejal Sherkar,Financial Mathematics
+210260049,Siddharth Stephen,Network Security - Classic and Modern Cryptographic Standards
+210260055,Spandan Anaokar,Introduction to Neural Networks and Deep Learning
+210260058,Tanmay Patil,Quantum Field Theory
+2000401000,Pooja Saini,Blockchain Technology
+2100110052,Jai Shah,Corporate Finance
+2101100016,Alok Otta,Semiconductor devices and their Applications
+19B030001,Abhijit Bijay Jena,Dynamic Modelling of Biological Systems
+19D100005,Bishop Prakash,Fundamentals of Reinforcement Learning
+20b030015,Dhruv Sinha,Data Structures & Algorithm
+20b080005,Amisha Saini ,Data Science 
+20d110024,Sarthak Bavdhankar,Portfolio Management and Optimization
+21B030002,Akhilesh Prasad,Artificial Intelligence
+21B030009,Dileep Badavath ,Financial mathematics
+21b030012,Divya,stock market analysis
+21B030024,Om Joglekar,Number Theory - The core basics
+21b080005,Akshat,Deep learning and Neural Networks
+21b080017,Harshita Gaikwad,Algorithmic Trading
+21b080020,Kirtan Bhaskar,Corporate Finance
+21b080022,Prajyot Chakre,Consumer Theory and Behaviour Analysis
+21b080030,Sonam M,Exploring Data Science
+21B090004,Aparna Agrawal,Mathematics Under the veil of Machine Learning
+21b090012,Lakshana S ,Corporate Finance 
+21b090019,Srishti Gautam,DSA
+21d070002,Aakash Gore,Computer Vision
+21d070007,Aditya Anand,Neural Network and deep learning
+21d070007,Aditya Anand,Neural Networks and Deep Learning 
+21d070012,Animesh Kumar,Neural Networks and Deep Learning
+21d070014,Anuj Gupta,Perception through Perceptrons
+21d070018,Arya Vishe,Deciphering the Mysteries
+21d070020,Siva Madhav Chinta,Financial Mathematics
+21d070025,Devesh Soni,Machine learning and Neural Networks
+21d070027,Dhruvi Ganatra,Data Structures And Algorithms
+21d070030,Shubham Jadhav,Portfolio Management
+21D070038,Monika Khond,Corporate Finance
+21D070042,Lohitaksh Mahajan,Stellar Evolution
+21d070049,Pranav Jain,Data Structures and Algorithms
+21d070062,Satush Parikh,Introduction to Stochastic Optimisation
+21d070067,Shivansh Gupta,Network Security
+21d070074,Soham Nivargi,Artificial Intelligence and Machine Learning
+21d070076,Sujeet Mehta,Neural Networks and Deep Learning 
+21d070078,Vinay Sutar,Operating Systems
+21d070086,Varunav Singh,Deep Learning in Computer Vision
+21d070087,Vasu Soni,Reinforcement Learning
+21d070091,Yeluguri Nirupama Reddy,SPACEFLIGHT MECHANICS
+21d100017,Saloni Jaiswal,Machine Learning
+21d110004,Alex Gohil,Portfolio Management
+21d110007,Keloth Uday Krishna,DSA
+21d110011,Om Nagalkar,Data Science
+21d110012,Om Kulpe,Machine Learning
+21d110015,Sfoorti More,Data Science
+21d110017,Shobhit Modgil,Machine Learning
+21D170003,Aditya Vibhute,Basic stock Market Analysis
+21d170004,Ananya Nawale,High Energy Astrophysics
+21D170005,Anish K V,Lithium-Ion Batteries
+21d170014,Drashti Doshi ,Electrochemical Energy Storage
+21d170023,Kartik Chikkanagoudar,"Quantum Computing, Information and Quantum Technologies"
+21d170030,Prateek Mishra,Game Theory
+21d170036,Samyak Maurya,Data Structures and Algorithms
+21D180001,Aacashi Nawyndder,Markov Decision Process
+21D180002,Abhishek Sarda,Reinforcement Learning
+21D180003,Ameya Marakarkandy,Missile Guidance and Control System
+21d180025,Neha Keshri,Data Structure and Algorithms
+21D180026,Nidhi Prajapati,Stock Market Analysis
+21d180040,Siddhi Pallod,Data Structure And Algorithm
+21d180041,Tanishk Saxena,Financial Mathematics
+22b0007,Ronak Sonkiya,Game Theory
+22b0011,Gaurav Revankar,Graph Theory 
+22b0015,Katumala Alvin Bunny Simphson,Modern stock Trading
+22b0025,Nakka Sai Deepthika ,Algorithmic Trading 
+22b0027,Shivendra Jhala,Data Structure and Algorithms
+22b0028,Bala krishna Kurrapothula,Cryptography
+22B0045,Ananya Chavadhal ,Neural Networks and Deep Learning: Decision Theory
+22b0055,Palak Jain ,Cosmology and Dark Matter 
+22b0057,Harigovind Raghunath,Artificial Intelligence
+22b0060,Priyanshu kumar meena,Modern stock trading
+22b0069,Kalpesh Khare,Game Theory
+22b0070,Devesh Mittal,Cognitive Psychology
+22B0301,Ananya Jain,Modern Stock Trading
+22B0304,Akshit Singhal,Data Strucutre and Algorithms
+22b0309,Aditya Pravin Parsekar,Fundamental Analysis: Case Study of Cipla
+22B0312,Vicky Yadav,"""Quantitative Analysis of Investment Strategies: Unveilling the cover of Financial Mathematics"""
+22b0315,Paridhi Pamecha,Graph Theory
+22B0320,Dhruv Gattani,Modern Stock Trading
+22b0321,Aman Kumar Singh,Data Structures And Algorithms
+22b0325,Ronit Tripathy,Consumer theory and behavioral analysis
+22b0326,Pratyush Ranjan,Stock Market Analysis
+22b0332,Madhav Agrawal,Cancer Biology:  A Deep Dive
+22b0336,Vaidehi Jha,Cosmology and Dark Matter
+22b0340,Dhyan Bhuta,Stock Market Analysis
+22b0347,Varun Ram Narayanan,STOCK MARKET ANALYSIS
+22B0351,Jubin Singh,Stock Market Analysis
+22B0352,Susmit Neogi,Algorithms and Data Structures Using Python
+22b0363,Prashabdhi Athawale,Artificial intelligence
+22B0367,Harleen Kaur,Algorithmic Trading
+22b0372,Pratiksha Kapoor,Corporate Finance: Maximizing Growth and Value
+22B0374,Rahil Dedhia,Hydrogen Storage and its Utility
+22B0382,Yatharth Saraswat,Modern Stock Trading
+22b0384,Ayush Sharma,Data Science
+22B0388,Devpal Meena,Modern Stock Trading
+22B0391,Krishna,stock market
+22b0392,Achirangshu,Journey into the depths of mind
+22b0393,Ronit Arora,Consumer Theory
+22b0394,Sobhin,Data Structures and Algorithms
+22b0399,Hemant Kabra,Data Structures and Algorithms
+22b0401,Divyanshu Suman,Algorithmic Trading
+22b0407,Ayush Jadia,Stock market prrediction using artificial intelligence
+22B0408,Anurag Jaybhaye,Stock Market Analysis
+22b0410,Ayush Raj,Data Structures and algorithms
+22B0411,Amna Rahman,Fundamentals of Corporate Finance and Financial Forecasting
+22b0414,Nishant Rajpoot,Stock Market Analysis
+22B0416,Nihar Mehta,Stock market Analysis
+22b0417,Chirag,Modern Stock Trading
+22b0420,Priyanshu Ranjan,Portfolio Management
+22b0422,Himanya Garg ,Stock market analysis
+22b0423,Radhika Goyal,Economics - Macro and Micro
+22b0427,Mrutyunjaya Sahu,Portfolio Management
+22b0432,Sarthak Mishra ,Quantum Computing
+22b0437,Shreshth Raj,Stock Market Analysis.
+22B0442,Mohit,Machine Learning 
+22b0443,Amit Malakar ,Data structures and algorithms 
+22b0447,Pinak Mahapatra,Stock Market Analysis
+22B0450,Harsh Raj ,Stock Market Analysis
+22B0453,Astha Sahu,Cryptography
+22b0454,Shubhdeep Singh,Modern Stock Trading
+22b0458,Aditya Choudhury,Group Theory
+22b0606,Gajendra singh dhaked,Data Science
+22B0610,Dev Raj Singh Chandel,Deep Learning Unleashed
+22b0617,ANURAG SINGH YADAV,Stock market analysis
+22b0635,Satvik Jain,Consumer Theory and Behavioral Analysis
+22b0642,Kulkarni Pranav Pradeeprao,Numerical Analysis 
+22b0650,aditya aryan,fundamental and technical analysis
+22B0660,Deepak Silaych,Intro to Machine Learning
+22B0681,Bhumika Kalra,Merger of HDFC bank and HDFC Limited
+22B0701,Het Modi,Stock Market Analysis-Summer Of Science
+22b0711,Harshwardhan Mishra,Derivatives: Futures And Options Explained
+22b0719,Kesav Ram S ,Genetics and Genetic Engineering: A Dissection 
+22B0732,Hritik Mohan,"Data,Structure and Algorithm Using C++"
+22B0737,harshul jain,Consumer theory and behavioral analysis
+22b0749,Aanchal Kumari,Stock Market analysis
+22b0755,Nakul Agarwal,Stock Market Analysis
+22b0760,Sourav,Stock Market Analysis
+22b0905,Sri Shraddha Singirikonda,Machine Learning
+22b0906,Ananya Kulashreshtha,Differential Equations
+22b0907,Anumalasetty Varshith,Group Theory
+22b0911,Ahil Khan,Algotrading
+22B0913,Trasula Umesh Karthikeya,Blockchain: A Comprehensive Overview
+22b0916,Sanoj S Vijendra,Quantum Computing
+22B0917,Shivam Kumar,Data Structures and Algorithms
+22b0919,Nitesh Singh,Machine Learning
+22b0920,Nandan Manjunath Immadisetty,Blockchain Technology
+22b0923,Dhvanil Gheewala ,Topology 
+22B0928,Anilesh Bansal,Matching Theory (Graphs)
+22b0935,Dheeraj Kurukunda,Group Theory
+22b0936,Navnit Kumar Thakur,Statistics and probability
+22b0941,Soham Dahane,Game Theory 
+22b0943,Sharvanee Sonawane,Data Structures And Algorithms
+22b0946,Yeswanth Mamilla,AI - Reinforcement Learning
+22b0949,Vetcha Gnana Mahesh ,Stock Market Analysis 
+22b0958,Arihant Vashista,Abstract Algebra
+22B0964,Saksham Raj,Algorithmic Trading: Statistical Arbitrage
+22b0965,Ojas Maheshwari, Portfolio Management: Achieving Financial Success through Strategic Investments
+22B0967,Satyankar Chandra,Game Theory
+22b0968,Pratik Sahoo,Probability Theory
+22b0971,Rijul Bhat,Computational Physics
+22B0973,Harsh Kumar,Graph Theory
+22b0974,Nitin Singh Patel,Consumer Theory And Behavioral Analysis
+22b0978,Tanish Agarwal,Blockchain Technology
+22b0979,Chaitanya Garg,Infromation and Coding Theory
+22b0981,Bhavya Sri Kottana,Financial Mathematics(Fundamental and Technical Analysis)
+22b0982,tec narayan brahmachari,reinforcement learning
+22b0983,Ankeet Saha,Stock Market Analysis
+22b0985,Sanskar Shaurya,Data Science
+22B0988,Deeksha Dhiwakar,Artificial Intelligence
+22b0990,Yash Santosh Jonjale,Graph Theory
+22B0994,Jaladhi Joshi,Combinatorics 
+22b0995,Lakshya Gadhwal ,Graph Theory
+22b1001,Menda Hima Vamsi ,"Introduction to AI, Reinforcement learning."
+22b1003,Saksham Rathi,Reinforcement Learning
+22b1005,Anirudh Garg,Game Theory
+22b1006,Urvi Gupta,Decoding Corporate Finance
+22b1019,Kavin Arvind,Cryptography
+22B1020,Harshit Maurya,Data Structures and Algorithms
+22b1021,Arnav Garg,Cryptography and its importance
+22B1024,Busa Siva Naga Venkata Aditya,Consumer Theory & Behavioural Economics
+22B1025,Arvind Kumar Yadav,Foundations of Probability and Statistics
+22b1027,Chinmay Khokar,Cryptography
+22B1029,Deevyanshu Malu,Introduction to Artificial Intelligence
+22b1031,Antriksh Punia,Special Relativity
+22b1032,Ekansh Ravi Shankar,Reinforcement Learning
+22b1037,Mandaliya Tanmay Dipakbhai,DSA
+22b1043,Aryaman Angurana,Special and General Relativity
+22b1045,shashi vardhan pothulwar,Network Security
+22B1047,Jalajakshi Palli,Stock Market Analysis
+22b1050,Tanvi Sree Jaishankar,Machine Learning
+22b1053,Kavya Gupta,Introduction to Econometrics
+22B1058,Muskaan Jain,Drug Discovery and Delivery
+22B1065,ujjawal kumar singh,Artificial intelligence
+22b1066,Abhay Kantiwal,Machine Learning
+22b1068,Tanishka Kabra,Stock Market Analysis
+22b1073,Thomas Biju Cheeramvelil,Computational Physics
+22B1201,Aagam Shah,Corporate Finance
+22b1210,chirag jindal,Datat structure and Algothrims
+22b1211,ANGAD SINGH,DISCRETE MATHEMATICS AND CODING THEORY
+22b1215,N V Navaneeth Rajesh,Title: Getting started with Data Science
+22b1225,Pravesh khaparde ,MODERN STOCK TRADING 
+22b1227,Ashwajit Singh,Quantum information and error correction
+22b1228,Kaustav Saha,Data Structure and Algorithm
+22B1232,Nimay Shah,Control Theory
+22B1233,Madhava Sriram,Portfolio Management
+22b1235,Himanshi Shende,Automobile Design
+22b1236,Takshit,Probability and Statistics
+22b1242,Jainam Ravani,Control Theory
+22B1249,Harsh Anand,Quantum Computation and Quantum Information
+22b1253,Manav Agrawal,Algorithmic trading
+22B1255,Anay Malviya,Basics of stock market
+22B1256,Deeptanshu Malu,Artificial Intelligence (Neural Network)
+22b1258,SAPTARSHI BISWAS,INTRODUCTION TO STOCK MARKET
+22b1262,Uday Singh,Stock Market Analysis
+22b1268,Aditya Nirmale,Quantum Computing
+22b1269,Adit Srivastava ,Cryptography
+22B1281,Jay Mehta,Machine Learning and Reinforcement Learning
+22b1285,Khushi Wandile ,Game Theory
+22b1288,Shruti Ghoniya,Neural Networks and Deep Learning 
+22b1293,Hardik Gohil,Data Structures and Algorithms
+22b1296,Dattaraj Salunkhe,Neural Networks and Deep Learning
+22b1297,Gowshik L,Solar Photovoltaics
+22b1298,Neel Bhavesh Rambhia,Calculus of Variations and Optimal Control Theory
+22B1505,Rutuja Choudhari,Li-ion Batteries
+22B1510,Shreyas Atul Kulkarni,Cosmology & Dark Matter
+22b1527,Akshaj Aithal,Redox Flow and Solid-State Batteries
+22B1535,S.S.GAYATHRI,Consumer Theory and Behavior Analysis
+22B1539,Samruddhi Shinde,Aerial Robotics
+22b1544,Utkarsh Jain,Automobile Design
+22b1545,Angel Ekka,Hydrogen Storage and its Utility
+22b1801,Arya Jha,Stock Market Analysis
+22B1810,Aaina Parmar ,Data Structures and Algorithms 
+22B1820,Ruchi Jain,Stock Market. Analysis
+22B1821,Kshitij Kumar,Diving Into The Stock Market
+22b1829,Kshitij Vaidya,An Introduction to Coding Theory
+22B1838,Anushka Kumari,Cosmology and Dark matter
+22b1839,Aditya Saran,"Quantum Computing, Information and Quantum Technologies"
+22b1842,sachin yadav,data structures and algorithm using c++
+22b1848,Kanishk Modi,Quantum Field Theory
+22b1850,Arnav Jain,Probability and Statistics
+22B2110,Akshat Thakur,Blockchain Technology 
+22b2111,Pratham Agarwal,Data Science
+22b2116,Abhinay Yashwante,Algorithmic trading
+22b2130,Rishu kuamr,Stock Market Analysis
+22B2141,Ishan Pandit,Robotics and Control Systems
+22b2153,Siddharth Verma,Data Science
+22b2163,Kosmika Saratkar,Introduction to Data Structures and Algorithms
+22b2168,Avipsa Swain,Dive into world of ML
+22B2169,Parijat Mudras,Mathematical Pathways in Finance-Portfolio Optimization and Derivatives
+22B2171,Vidyanand Kumar ,Stock Market Analysis 
+22B2179,Pranav Gupta,Introduction to Robotics
+22b2192,Aarohi Deshpande ,Spaceflight Mechanics
+22b2196,Rohan Badgujar,SplitWise - A Cash-flow Minimiser
+22B2197,Vaishnavi Arun Kukde ,Criminology 
+22b2201,Shikhar Kunal Verma,Blockchain Technology
+22b2203,Ayush Kumar Singh,Modern Stock Trading
+22b2209,Shetty Sathwik Prakash,Probability and Statistics
+22b2210,Abhishek Kumar,Stock Market Analysis
+22B2217,Ashish Zantye,Game theory
+22b2221,Vedant Yadav,Stock Market Analysis
+22B2247,Kuldeep Nitin Pujari,Machine Design
+22b2252,Tushar Titodia,Machine Design
+22b2259,Archit Mundada,Introduction to Fluid Mechanics
+22b2264,Arin Mahajan,Corporate Finance
+22b2266,Aakash Annasaheb Bansode,Corporate Finance 
+22b2272,Shrushti Visave ,Data Science 
+22b2273,Makwana Jeeten Rajnikant,Portfolio Management
+22b2276,Sarvesh Shridhar Patil,Machine learning basics
+22b2402,Arnab Choudhury,Introduction to Group theory
+22b2403,Kadambari Bhide,Genetic Engineering and Biomimicry
+22b2410,Udayan Gupta,Artificial Intelligence
+22b2421,vivekant kumar,modern stock trading
+22B2428,Ayush Tekriwal,Stock  Market Analysis
+22b2431,Antara Pandey,Machine Learning
+22B2435,MEENA CHOUHAN,stock investor
+22b2445,Shreya Singal,Data Science
+22b2447,Chaithanya Pusapalli, COSMOLOGY AND DARK MATTER
+22b2462,Bhushan Totla,Comprehensive Summary of Corporate Finance
+22B2467,Vishesh Jain,Data Structures and Algorithms 
+22b2476,Ansh Kapoor,Data Structure & Algorithm
+22b2496,Aditya Kaakran,Stock Market Analysis
+22B2530,Rutuja Manish Sane,Data Science
+22B2541,Prathamesh Yeole,Corporate Finance
+22b2544,Prerna Rai,Data Science
+22b2701,Gaurav Bhalerao,Blockchain Technology
+22B2703,Aditya Gaur,An Introduction to Quantum Field Theory
+22b2711,Sumeet Samant,Corporate Finance
+22B2722,Parshva Roliya,Robotics
+22b2726,Arnav Gupta,Consumer Theory and Behavioral Analysis
+22B2733,Pushpendra kumar,Artificial Intelligence 
+22b3003,Rishi Daga,Stock Analysis
+22B3005,Tirth Gada ,Data Structures & Algorithms
+22b3010,Jyotishman Saha,Derivative Pricing
+22B3014,Shivam Sonker,Stock Market Analysis
+22b3018,Bhavesh Tanan,Portfolio Management
+22b3021,Dhruv Gangrade,Financial Mathematics
+22b3024,Ashwani Dubey ,Stock market analysis 
+22b3026,Neeraj Bajiya,Big Data
+22B3027,Ayush Patel,Portfolio Management
+22b3029,Amish Sethi,Data Science
+22B3031,Mahek Hinhoriya ,Algorithmic Trading 
+22b3033,Somya Garg,Financial Mathematics
+22B3035,Vaibhav Sureka,Financial Mathematics
+22b3304,vansh maheshwari,Financial Mathematics
+22B3308,Kashish Talwar,Financial Mathematics
+22B3316,Maathangi S,Number Theory
+22b3318,Tejas G. Shende,Game Theory
+22b3323,Piyush Raj,Financial Mathematics : A Brief Introduction
+22B3326,Nandan Ajay Paralikar,Data Science 
+22B3907,Shiwani Mishra,Stock Market Analysis 
+22b3917,Arnav Agarwal,Cryptography
+22B3918,Oviya S,Portfolio Management
+22B3921,Sthiti Padhi,Criminology
+22B3929,Aman Verma,Deep Learning and Neural Networks
+22b3936,Sravan K Suresh,"Quantum Computing, Information and Quantum Technologies"
+22B3940,Anuj Gautam,Machine Learning
+22b3942,Harsh Sanjay Roniyar,Neural Networks and Deep Learning
+22b3944,Madhur kholia,STOCK MARKET ANALYSIS
+22b3948,Arohan Hazarika,Probability and Statistics
+22B3949,Virti Mehta ,NLP- Integral Part of AI
+22b3969,Devavrat Patni,Data Structures and Algorithms
+22b3978,Sanjay Meena,Machine Learning in Real-World Applications
+22b4201,Anurag Pachgade,Machine Learning
+22B4208,Rana Udbhav Bhaveshbhai,Machine Learning
+22b4210,Sameer Atreya ,Data Structures and Algorithms 
+22b4214,Samarth Sanganeria,Computational Fluid Dynamics
+22b4223,Siddhant Gada,Cryptography Essentials
+22B4225,Prasan Das,Economic Dynamics: Macro & Micro Insights
+22b4501,Atharva Naik,Corporate Finance
+22b4503,Soham Lalit Bahale,Modern Stock Trading
+22m1854,Yakkanti Yamini Saraswathi,Customer Segmentation using K-Means Clustering with Python
+22n0064,Shiv Yadav,NEURAL NETWORK AND DEEP LEARNING 
+22n0075,Sudipta Das,Markov Chain
+22n0292,SATYAM TIWARI,NATURAL LANGUAGE PROCESSING

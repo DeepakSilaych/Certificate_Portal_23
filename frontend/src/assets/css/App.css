@@ -1,0 +1,179 @@
+.app {
+    width: 100%;
+    height: 100%;
+    background-color: #2659ac;
+    color: #f8d447;
+  }
+  
+  .container {
+    padding: 10% 5% 10px 5%;
+    width: 90%;
+  }
+  
+  .pg0 {
+    width: 90%;
+    background-color: #2659ac;
+    color: #f8d447;
+  
+    font-size: 1.7rem;
+    font-weight: 800;
+  
+    height: 50vh;
+    z-index: -10;
+  }
+  
+  .pg0 header {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+  }
+  
+  .pg0 .text {
+    width: 700px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+  }
+  
+  .pg0 .text P {
+    font-weight: 200;
+    font-size: 1.4rem;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+  }
+  .pg0 .img-div {
+    position: absolute;
+    top: 0;
+    right: 10vw;
+    height: 85%;
+    z-index: 0;
+  }
+  
+  .pg0 .img-div img {
+    height: 100%;
+  }
+  
+  @media (max-width: 1024px) {
+    
+    .dumb_img{
+      display: none;
+    }
+
+    .pg0{
+      height: 40vh;
+    }
+  }
+  @media (max-width: 768px) {
+    .pg0 {
+      height: 40vh;
+      font-size: 100%;
+    }
+
+    .container {
+      padding: 10% 2.5% 10px 2.5%;
+      width: 95%;
+    }
+
+    .pg0 header {
+      position: absolute;
+      top: 5%;
+      left: 5%;
+    }
+
+    .pg0 .text {
+      width: 100%;
+      word-spacing: 5px;
+      letter-spacing: 2px;
+    }
+  }
+
+
+  /*=============================================================*/
+  .pg {
+    background-color: #f8d447;
+    color: black;
+    border-radius: 10px;
+    font-weight: 200;
+    font-size: 20px;
+    padding: 30px 10% 10% 10%;
+    z-index: 1;
+  }
+  
+  .pg h2 {
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+  } 
+  
+  .pg p {
+    text-align: center;
+  }
+  
+  .box-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .box-wrapper .boxes {
+    margin: 30px 30px 10px 30px;
+    background-color: white;
+    opacity: 1;
+  }
+  
+  .box-wrapper .boxes .box {
+    font-weight: 340;
+    padding: 30px;
+    transition: all 0.2s ease-in-out;
+    border: 3px solid black;
+    color: black;
+    background-color: transparent;
+  }
+  
+  .box-wrapper .boxes .box:hover {
+    transform: translate(10px, -10px);
+  }
+
+  .pg3 .boxes {
+    padding: 30px 0;
+  }
+
+  
+  .pg2 img {
+    transform: scaleX(-1);
+  }
+  
+  .pg img {
+    position: absolute;
+  
+    height: 30%;
+    left: 20%;
+  }
+
+  .buttons{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .button{
+    color: #f8d447;
+    margin: 0 10px;
+    font-weight: 400;
+    z-index: 1000;
+  }
+
+  .button:hover{
+    cursor: pointer;
+  }
+  
+  /*=========================================================*/
+  .footer {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: #f8d447;
+    text-align: center;
+  }
+  
