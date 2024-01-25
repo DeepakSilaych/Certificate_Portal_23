@@ -18,4 +18,11 @@ The ITC Certificate Portal is a web application developed to facilitate the effi
 - **Frontend:** React
 - **Backend:** Django
 
+## ScreenShots
 
+![Screenshot 1](./images/i1.png)
+![Screenshot 2](./images/i2.png)
+![Screenshot 3](./images/i3.png)
+![Screenshot 4](./images/i4.png)
+![Screenshot 5](./images/i5.png)
+![Screenshot 6](./images/i6.png)
